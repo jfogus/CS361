@@ -66,4 +66,3 @@ def format_data(header, content):
 
 if __name__ == "__main__":
     print("This is not meant to be run as a script. Please import this module.")
-    csv_reader()
